@@ -28,7 +28,7 @@
         <button type="submit"> Registeer </button>
     </form>
 
-    <p> Already have an account?$_COOKIE<a href="login.php">Login</a>
+    <p> Don't have an account?<a href="register.php.php">Login</a>
 </p>
 
 
