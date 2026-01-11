@@ -19,3 +19,4 @@ This is a simple PHP login system with MySQL database, user registration, login,
 2. Import `php_login_system.sql` in phpMyAdmin (database + users table)
 3. Open `register.php` in browser to create a user
 4. Login using `login.php`
+
