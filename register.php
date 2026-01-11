@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -37,3 +38,5 @@
         </form>
     </body>
 </html>
+=======
+>>>>>>> 5d39e3b (Database setup and connection)
